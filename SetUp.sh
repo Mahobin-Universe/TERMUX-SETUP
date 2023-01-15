@@ -18,7 +18,7 @@ pkg autoclean
 
 pkg clean
 
-termux-change-repo
+pkg install npm
 
 pkg install curl
 
